@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="blue">@android:color/holo_blue_dark</color>
+    <color name="Yellow">#FFFF66</color>
+    <color name="green">@android:color/holo_green_light</color>
+    <color name="colorRecordSelected">#965305</color>
+    <color name="colorShadow">#38383838</color>
+
+    <color name="balance_total_color">#3ab7ae</color>
+    <color name="balance_expense_color">#f76c41</color>
+    <color name="balance_income_color">#fcc31e</color>
+    <color name="balance_secondary_text_color">#95989A</color>
+</resources>

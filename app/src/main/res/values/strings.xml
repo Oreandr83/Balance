@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Balance</string>
+
+    <string name="add_item">Новая запись</string>
+    <string name="balance_item">Учёт бюджета</string>
+    <string name="title_hint">Название</string>
+    <string name="price_hint">0</string>
+    <string name="rub">₽</string>
+
+    <string name="fin">Учёт бюджета</string>
+
+    <string name="tab_incomes">Доходы</string>
+    <string name="tab_expensive">Расходы</string>
+    <string name="tab_balance">Баланс</string>
+    <string name="remove">Удалить?</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="button">Button</string>
+    <string name="button_button">Sign in</string>
+    <string name="title_balance">Ваш баланс</string>
+    <string name="expense_title">Расход</string>
+    <string name="income_title">Доход</string>
+
+
+    <string name="price">%1$d \u20bd</string>
+
+    <string-array name="tab_title">
+        <item>@string/tab_incomes</item>
+        <item>@string/tab_expensive</item>
+        <item>@string/tab_balance</item>
+    </string-array>
+</resources>
